@@ -9,5 +9,6 @@ public class GItTest {
         System.out.println("master fix");
         System.out.println("hot-fix");
         System.out.println("push test");
+        System.out.println("push by SSH");
     }
 }
